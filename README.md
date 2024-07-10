@@ -1,2 +1,1 @@
-# plantilla-latex
-Plantilla de LaTeX para apuntes.
+# Plantilla de LaTeX 
